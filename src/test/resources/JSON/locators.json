@@ -1,0 +1,9 @@
+{
+
+  "emailInput": "//input[@type='email']",
+  
+  "passwordInput": "//input[@type='password']",
+  
+  "submitButton": "//input[@type='submit']"
+  
+}
