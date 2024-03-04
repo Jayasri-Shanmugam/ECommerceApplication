@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-23T17:23:10 IST" name="Default suite" finished-at="2024-02-23T17:23:15 IST" duration-ms="5308">
+  <suite started-at="2024-02-28T17:07:59 IST" name="Default suite" finished-at="2024-02-28T17:08:13 IST" duration-ms="13503">
     <groups>
     </groups>
-    <test started-at="2024-02-23T17:23:10 IST" name="Default test" finished-at="2024-02-23T17:23:15 IST" duration-ms="5308">
+    <test started-at="2024-02-28T17:07:59 IST" name="Default test" finished-at="2024-02-28T17:08:13 IST" duration-ms="13503">
       <class name="testScripts.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.LoginPageTest@4b741d6d]" started-at="2024-02-23T17:23:10 IST" name="setUp" finished-at="2024-02-23T17:23:14 IST" duration-ms="3886" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.LoginPageTest@4b741d6d]" started-at="2024-02-28T17:07:59 IST" name="setUp" finished-at="2024-02-28T17:08:11 IST" duration-ms="12135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:testScripts.LoginPageTest@4b741d6d]" started-at="2024-02-23T17:23:15 IST" name="test1" data-provider="test1data" finished-at="2024-02-23T17:23:15 IST" duration-ms="497" status="PASS">
+        <test-method signature="test1(java.lang.String,java.lang.String)[pri:0, instance:testScripts.LoginPageTest@4b741d6d]" started-at="2024-02-28T17:08:12 IST" name="test1" data-provider="test1data" finished-at="2024-02-28T17:08:13 IST" duration-ms="346" status="PASS">
           <params>
             <param index="0">
               <value>
